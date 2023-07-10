@@ -8,4 +8,11 @@
     <string name="type_note_here">Type note here..</string>
     <string name="miscellaneous">Miscellaneous</string>
     <string name="pick_color">Pick Color</string>
+    <string name="add_image">Added imager</string>
+    <string name="add_url">Added url</string>
+    <string name="enter_url">Enter url</string>
+    <string name="add">Add</string>
+    <string name="cancel_dialog">cancel</string>
+    <string name="delete_note">delete note</string>
+    <string name="are_you_sure">Are you sure ?</string>
 </resources>
